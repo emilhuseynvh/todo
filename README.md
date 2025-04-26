@@ -5,7 +5,7 @@ This documentation describes the RESTful API endpoints for managing todo items.
 ## Base URL
 
 ```
-/api/todo
+https://todo.drafts.az/api/todo
 ```
 
 ## Endpoints
